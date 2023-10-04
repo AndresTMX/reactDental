@@ -1,4 +1,4 @@
-import { StyleSheet, View, Text, TextInput, Pressable} from 'react-native'
+import { StyleSheet, View, Text } from 'react-native'
 import { Button, Card, Input } from '@rneui/base';
 import { Link } from 'expo-router';
 
@@ -61,3 +61,4 @@ const login = StyleSheet.create({
     },
     
 })
+
